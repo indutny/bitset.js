@@ -1,0 +1,39 @@
+{
+  "name": "bitset.js",
+  "version": "2.2.0",
+  "description": "Ordered set with bitfield presence check",
+  "main": "lib/bitset.js",
+  "scripts": {
+    "test": "jscs lib/*.js test/*.js && jshint lib/*.js && mocha --reporter=spec test/*-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/indutny/bitset.js.git"
+  },
+  "keywords": [
+    "JSON",
+    "pipeline",
+    "CFG",
+    "SSA",
+    "Sea",
+    "of",
+    "nodes",
+    "Compiler",
+    "JIT"
+  ],
+  "author": "Fedor Indutny <fedor@indutny.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indutny/bitset.js/issues"
+  },
+  "homepage": "https://github.com/indutny/bitset.js#readme",
+  "devDependencies": {
+    "jscs": "^1.13.1",
+    "jshint": "^2.8.0",
+    "mocha": "^2.2.5"
+  },
+  "dependencies": {
+    "binary-search": "^1.2.0",
+    "bitfield.js": "^1.2.0"
+  }
+}
