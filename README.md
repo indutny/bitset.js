@@ -1,6 +1,6 @@
 # Bit-Set
 [![Build Status](https://secure.travis-ci.org/indutny/bitset.js.png)](http://travis-ci.org/indutny/bitset.js)
-[![NPM version](https://badge.fury.io/js/bitset.js.svg)](http://badge.fury.io/js/bit-set)
+[![NPM version](https://badge.fury.io/js/bitset.js.svg)](http://badge.fury.io/js/bit-set.js)
 
 BitField-backed Set implementation.
 
