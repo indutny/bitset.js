@@ -1,6 +1,6 @@
 {
   "name": "bit-set.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Ordered set with bitfield presence check",
   "main": "lib/bitset.js",
   "scripts": {
