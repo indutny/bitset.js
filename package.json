@@ -11,15 +11,10 @@
     "url": "git+ssh://git@github.com/indutny/bitset.js.git"
   },
   "keywords": [
-    "JSON",
-    "pipeline",
-    "CFG",
-    "SSA",
-    "Sea",
-    "of",
-    "nodes",
-    "Compiler",
-    "JIT"
+    "bitfield",
+    "bitset",
+    "set",
+    "binary"
   ],
   "author": "Fedor Indutny <fedor@indutny.com>",
   "license": "MIT",
