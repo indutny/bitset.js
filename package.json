@@ -29,6 +29,6 @@
   },
   "dependencies": {
     "binary-search": "^1.2.0",
-    "bitfield.js": "^1.2.0"
+    "hierarchical-bitfield.js": "^1.0.0"
   }
 }
